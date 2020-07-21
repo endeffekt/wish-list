@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="quantity" label="Quantity" language="en" table="x_513474_wish_list_wish_item">
+    <sys_documentation element="u_choice_1" label="New Choice" language="en" table="x_513474_wish_list_wish_item">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>quantity</element>
+            <element>u_choice_1</element>
             <help/>
             <hint/>
-            <label>Quantity</label>
+            <label>New Choice</label>
             <language>en</language>
             <name>x_513474_wish_list_wish_item</name>
-            <plural>Quantities</plural>
+            <plural>New Choices</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-21 06:59:25</sys_created_on>
-            <sys_id>a93b990f2f021010a4bc2ea62799b6b0</sys_id>
+            <sys_created_on>2020-07-21 07:34:06</sys_created_on>
+            <sys_id>6dea110f2f021010a4bc2ea62799b6bd</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Quantity</sys_name>
+            <sys_name>New Choice</sys_name>
             <sys_package display_value="Wish List" source="x_513474_wish_list">12d015c32f021010a4bc2ea62799b663</sys_package>
             <sys_policy/>
             <sys_scope display_value="Wish List">12d015c32f021010a4bc2ea62799b663</sys_scope>
-            <sys_update_name>sys_documentation_x_513474_wish_list_wish_item_quantity_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_513474_wish_list_wish_item_u_choice_1_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-21 06:59:25</sys_updated_on>
+            <sys_updated_on>2020-07-21 07:34:06</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
